@@ -1,0 +1,13 @@
+{
+    "name": "nokk-ui",
+    "private": true,
+    "version": "0.1.0",
+    "workspaces": [
+      "apps/*",
+      "packages/*"
+    ],
+    "scripts": {
+      "dev": "pnpm --filter showcase dev",
+      "build": "pnpm --filter showcase build"
+    }
+  }
