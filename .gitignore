@@ -74,6 +74,7 @@ dist/
 .dynamodb/
 .tern-port
 .vscode-test
+.cursor/
 
 # Package managers
 .yarn/cache
